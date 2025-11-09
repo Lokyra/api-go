@@ -1,5 +1,4 @@
-##To run the server
-
+To run the server
 ```
 go run main.go
 ```
